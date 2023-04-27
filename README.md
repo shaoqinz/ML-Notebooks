@@ -1,2 +1,2 @@
 # ML-Notebooks
-Read the notebooks at https://nbviewer.org/.
+If the notebook is not displaying correctly, read on https://nbviewer.org/.
